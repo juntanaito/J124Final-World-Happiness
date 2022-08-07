@@ -11,7 +11,7 @@ I got my data from this data set and focused on the years 2019 to 2022.
 3. Sort the "Explained by: GDP per capita" column from A to Z, arranging the data in ascending order from the lowest GDP per capita. 
 !['Lowest GDP','Lowest GDP'](/1b.png)
 * **As shown, the countries which ranked the lowest for GDP per capita as their explanation for their happiness, ranked lower overall in happiness, as Venezuela scored the lowest for GDP per capita being their explanation for happiness with 0, and ranked #108 among the happiest countries with a happiness score of 4,925.**
-### 2) In 2021, what was the averages for the ladder score, GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption *by region*? Round decimal to the hundredth place. Which region had the highest average "ladder score"?
+### 2) In 2021, what were the averages for the ladder score, GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption *by region*? Round decimal to the hundredth place. Which region had the highest average "ladder score"?
 1. In the "2021" sheet, create a pivot table.
 2. In the pivot table, set the row to "Regional indicator."
 3. In the column, add "Ladder score", "Logged GDP per capita", "Social support", "Healthy life expectancy", Freedom to make life choices", "Generosity", and "Perceptions of Corruption" and set each "summarize by" to "AVERAGE."
