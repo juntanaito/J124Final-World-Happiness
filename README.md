@@ -19,7 +19,7 @@ I got my data from this data set and focused on the years 2019 to 2022.
 5. Under the number formats with the "123" icon, change the format to "number."
 !['2021 Regional Averages','2021 Regional Averages'](/2.png)
 * **As shown, "North America and ANZ" had the highest "ladder score" of 7.13 in 2021, which indicates respondents answers on a [Cantril ladder](https://worldhappiness.report/faq/), with 0 representing the worst possible life and 10 being the best. This region overall scored well with their average score of 10.81 for "Logged GDP per capita" being , 0.93 for "Social support", and 72.33 for "Healthy life expectancy."** 
-### 3)
+### 3) 
 1.
 
 ### 4)
