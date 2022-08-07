@@ -14,10 +14,10 @@ I got my data from this data set and focused on the years 2019 to 2022.
 ### 2) In 2021, what were the averages for the ladder score, GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption *by region*? Round decimal to the hundredth place. Which region had the highest average "ladder score"?
 1. In the "2021" sheet, create a pivot table.
 2. In the pivot table, set the row to "Regional indicator."
-3. In the column, add "Ladder score", "Logged GDP per capita", "Social support", "Healthy life expectancy", Freedom to make life choices", "Generosity", and "Perceptions of Corruption" and set each "summarize by" to "AVERAGE."
+3. In the column, add "Ladder score", "Logged GDP per capita", "Social support", "Healthy life expectancy", "Freedom to make life choices", "Generosity", and "Perceptions of Corruption" and set each "summarize by" to "AVERAGE."
 4. Highlight numbers in the data set (B2 to H12) 
 5. Under the number formats with the "123" icon, change the format to "number."
-!['2021 Regional Averages','2021 Regional Averages'](/2a.png)
+!['2021 Regional Averages','2021 Regional Averages'](/2.png)
 * **As shown, "North America and ANZ" ("ANZ" stands for [Australia and New Zealand](https://worldhappiness.report/ed/2022/happiness-benevolence-and-trust-during-covid-19-and-beyond/)) had the highest "ladder score" of 7.13 in 2021, which indicates respondents answers on a [Cantril ladder](https://worldhappiness.report/faq/), with 0 representing the worst possible life and 10 being the best. This region overall scored well with their average score of 10.81 for "Logged GDP per capita" being , 0.93 for "Social support", and 72.33 for "Healthy life expectancy."** 
 ### 3) Which countries have ranked/scored top 5 in happiness from 2019 to 2022? Do you observe any patterns?
 1. In the "2019" sheet, sort the "Overall rank" column from A to Z, arranging the data in ascending order from the lowest number, or the top rankings. 
@@ -29,8 +29,10 @@ I got my data from this data set and focused on the years 2019 to 2022.
 4. In the "2022" sheet, sort the "RANK" column from A to Z, arranging the data in ascending order from the lowest number, or the top rankings. 
 !['Top Rank/Score','Top Rank/Score'](/3d.png)
 * **Finland and Denmark respectively top all four years consecutively. Iceland, Switzerland, Norway, and Netherlands are also consistently in the top 5 range as well.**
-### 4)
-1.
-
+### 4) In 2022, which countries gave the highest score for each of the categories: GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption?
+1. In the "2022" sheet, create a pivot table.
+2. In the pivot table, set the "Values as" to "columns" and add "Explained by: GDP per capita", "Explained by: Social support", "Explained by: Healthy life expectancy", "Explained by: Freedom to make life choices", "Explained by: Generosity", and "Explained by: Perceptions of Corruption" and set each "summarize by" to "MAX."
+3. To set up for the VLOOKUP function, go to "2022" sheet and move the "Country" column to the right of the "Explained by: Perceptions of corruption" column.
+4. 
 ### 5)
 1.
