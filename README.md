@@ -33,6 +33,8 @@ I got my data from this data set and focused on the years 2019 to 2022.
 1. In the "2022" sheet, create a pivot table.
 2. In the pivot table, set the "Values as" to "columns" and add "Explained by: GDP per capita", "Explained by: Social support", "Explained by: Healthy life expectancy", "Explained by: Freedom to make life choices", "Explained by: Generosity", and "Explained by: Perceptions of Corruption" and set each "summarize by" to "MAX."
 3. To set up for the VLOOKUP function, go to "2022" sheet and move the "Country" column to the right of the "Explained by: Perceptions of corruption" column.
-4. 
+4. Go back to the pivot table sheet and use the VLOOKUP function to fill in the countries which correspond to the the highest score (maximum value) in each of the categories. In order to do this, the search key would be the maximum value for each category ("2209" or cell A2 for "MAX of Explained by: GDP per capita"), the range would be from the column which the search is being made ("Explained by: GDP per capita" or column C in this example) until the "Country" (column I), index would be the number of the "Country" column counting from the left ("7" in this example), and the "[is sorted]" would be "false."  
+
+* **Luxembourg gave the highest score for GDP per capita, Iceland for social support, Hong Kong S.A.R. of China for healthy life expectancy, Cambodia for freedom to make life choices, Indonesia for generosity, and Singapore for perceptions of corruption?**
 ### 5)
 1.
