@@ -73,8 +73,8 @@ NYT - "Dr. Wang said some results were surprising: Parts of Eastern Europe ranke
 !['2022 Highest Category','2022 Highest Category'](/4.png)
 * **In 2022, Luxembourg gave the highest score for GDP per capita, Iceland for social support, Hong Kong S.A.R. of China for healthy life expectancy, Cambodia for freedom to make life choices, Indonesia for generosity, and Singapore for perceptions of corruption.**
 
-### 5) What was the percentage change in the ladder score from 2021 to 2022 for Finland, Denmark, Iceland, Switzerland, and the United States?
-1. In the "2022" sheet, create a pivot table.
+### 5) What was the percentage change in the ladder score from 2020 to 2021 for Finland, Denmark, Iceland, Switzerland, and the United States?
+1. In the "2021" sheet, create a pivot table.
 2. In the pivot table, set the row to "Country name."
 3. In the filters option, unselect all other countries except for Finland, Denmark, Iceland, Switzerland, and the United States.
 4. In the values option, add "Ladder score" and summarize it by "AVERAGE."
