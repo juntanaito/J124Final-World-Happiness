@@ -1,7 +1,5 @@
 # Which country has the happiest people and why?
 ## By Junta Naito
-## Sourcing
-I got my data from this data set and focused on the years 2019 to 2022.
 
 ## Story Summary and Sourcing
 For my story, I will be referencing the **[2019 to 2022 data set from the World Happiness Report](https://www.kaggle.com/datasets/mathurinache/world-happiness-report)** by the Gallup World Poll (GWP).
