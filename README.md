@@ -9,7 +9,10 @@ NYT - "Dr. Wang said some results were surprising: Parts of Eastern Europe ranke
 NYT - explains more about why Fins may be happier
 "The country’s public school system, which rarely tests children, is among the best in the world. College is free. There is a good universal health care system and child care is affordable. And Finland has been one of the least affected European countries by the pandemic, which experts attribute to the high trust in government and little resistance to following restrictions."
 
-## Data Analysis
+## Data Visualization
+!['2022 Happiness Map','2022 Happiness Map'](/2022HappinessMap.png)
+
+## Data Analysis Process
 
 ### 1) In 2022, what rank and happiness score did the countries who had the top 5 highest score for GDP per capita as their explanation for happiness receive? Top 5 lowest? 
 1. In "2022" sheet, highlight the "Explained by: GDP per capita" column and drag it to the right of the "Happiness score" column.
