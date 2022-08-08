@@ -66,6 +66,6 @@ NYT - explains more about why Fins may be happier
 5. Copy the corresponding column headers and paste them into the new sheet.
 6. In the new sheet, in the row below the Finland data, add a function which would divide the Finland data by the average data and then substract that by 1 (For the "happiness score" column, it would "=((B3/B2)-1)" which would result in "=((7821/5,553.58)-1)". Drag this function to the right so that it applies to the rest of categories. Label this new row "Percent Differences"
 7. Highlight the "Percent Differences" row and format as percent.
-
-* **Generally, Finland has a much higher positive percent difference in categories that are positive, such as being 40.83% higher in happiness score than the average country and 42.3% in freedom to make life choices, but was significantly higher in perceptions of corruption, being 245% higher than the average. As [Gallup noted](https://worldhappiness.report/ed/2019/changing-world-happiness/), "for corruption a higher rank means a lower perceived frequency of corruption"**
+!['Percent Difference','Percent Difference'](/6.png)
+* **Generally, Finland has a much higher positive percent difference in each of the categories, compared to averages of all the countries. For example, it is 40.83% higher in happiness score, 42.3% in freedom to make life choices, and, most significantly, 245% in perceptions of corruption. As [Gallup World Poll noted](https://worldhappiness.report/ed/2019/changing-world-happiness/), "for corruption a higher rank means a lower perceived frequency of corruption"**
 
