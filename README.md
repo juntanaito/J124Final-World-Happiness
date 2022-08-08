@@ -12,7 +12,7 @@ Every year the GWP conducts a World Happiness Report in which they evaluate a co
 * **Email:** swang@kdis.ac.kr
 * **Phone Number:** +82 (44) 550 - 1109
 * *Dr. Wang is one of the authors of the study and provided insightful commentary on the referenced New York Times' article.*
-</br>
+
 **2. John F. Helliwell | Professor Emeritus, Vancouver School of Economics, University of British Columbia**
 * **Email:** John.Helliwell@ubc.ca
 * **Phone Number:** 604-822-4953
@@ -23,7 +23,7 @@ Every year the GWP conducts a World Happiness Report in which they evaluate a co
 **1. [New York Times' "What Makes a Happy Country?"](https://www.nytimes.com/2021/04/20/world/europe/world-happiness-report-ranking.html)**
 * This article provides a journalistic perspective of the World Happiness Report and expert voices on their analysis and interpretation of the data.
 NYT - "Dr. Wang said some results were surprising: Parts of Eastern Europe ranked relatively low on the list, despite having relatively good income levels, while in South America, the reverse was true: Happiness levels tended to be high, given relatively low income levels."
-</br>
+
 **2. [World Happiness Report's "Overview: Life under COVID-19"](https://worldhappiness.report/ed/2021/overview-life-under-covid-19/)**
 * This report provides an in-depth anaylsis from the authors of the study about how COVID-19 has overall impacted the happiness of countries across the world.
 
