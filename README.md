@@ -10,7 +10,7 @@ NYT - explains more about why Fins may be happier
 "The country’s public school system, which rarely tests children, is among the best in the world. College is free. There is a good universal health care system and child care is affordable. And Finland has been one of the least affected European countries by the pandemic, which experts attribute to the high trust in government and little resistance to following restrictions."
 
 ## Data Visualization
-!['2022 Happiness Map','2022 Happiness Map'](/2022HappinessMap.png)
+[!['2022 Happiness Map','2022 Happiness Map'](/2022HappinessMap.png)](https://datawrapper.dwcdn.net/cHX8N/2/)
 
 ## Data Analysis Process
 
