@@ -1,4 +1,4 @@
-# Which country has the happiest people and why?
+# Where are the happiest countries in the world and why?
 ## By Junta Naito
 
 ## Story Summary and Sourcing
