@@ -56,4 +56,6 @@ NYT - explains more about why Fins may be happier
 5. In order to add in the ladder scores from 2020, use VLOOKUP in the cell directly to the right of Denmark's average ladder score. The search key would be the country name ("Denmark" for example), the range would be from the "Country name" column to the "Ladder score" column, index would be "3", and the "[is sorted]" would be "false." Then drag the formula down to apply to the other countries. Name this column "2020."
 6.  In order to find the percent change, follow the "(NEW-OLD)/OLD) x 100" formula, so for first country Denmark, it would be "B2" or "7.62" minus "C2" or "7.65", divided by "C2". Then you can name this column "Percent change" and highlight all the values under it and format them as a percent.
 !['Percent Change','Percent Change'](/5.png)
-* **From 2021 to 2022, Denmark decreased in their ladder score by 0.33% while the other countries increased such as 0.66% by Iceland and 0.16% by the United States.**
+* **From 2021 to 2020, Denmark decreased in their ladder score by 0.33% while the other countries increased such as 0.66% by Iceland and 0.16% by the United States.**
+
+### 6) Looking at Finland's categories in comparison to the average of others. 
