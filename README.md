@@ -4,6 +4,8 @@
 I got my data from this data set and focused on the years 2019 to 2022.
 
 ## Story Summary and Sourcing
+Every year the Gallup World Poll (GWP) conducts a World Happiness Report in which they evaluate a country's level of happiness based on self-reported responses about their quality of life. Respondents also evaluate these six variables to explain the nuances in happiness within their countries: GDP per capita, social support, healthy life expectancy, freedom, generosity, and absence of corruption. For the past four years (2019 to 2022), Finland and Denmark respectively have been ranked as the top two happiest countries consecutively. While there are certainly several factors contributing to a country's overall sense of happiness, there were some common factors found within my analysis. First, by evaluating countries which ranked their GDP per capita being the explanation for happiness, I observed that while countries who ranked GDP per capita as a low factor did have an overall lower happiness score, the countries which has ranked it higher did not necessarily rank higher in overall happiness. For example, although Singapore had the second highest score for GDP per capita as their explanation with 2,149, it still ranked #27 in overall happiness. So while a healthy economy is needed as a standard, it was not the most influential factor in contributing to a county's overall happiness. When comparing Finaland's data to the overall averages, Finland generally had a much higher positive percent difference but most significantly in perceptinos of corruption, which was higher by 245% compared to the avergae country. 
+
 NYT - "Dr. Wang said some results were surprising: Parts of Eastern Europe ranked relatively low on the list, despite having relatively good income levels, while in South America, the reverse was true: Happiness levels tended to be high, given relatively low income levels."
 
 NYT - explains more about why Fins may be happier
@@ -71,4 +73,3 @@ NYT - explains more about why Fins may be happier
 7. Highlight the "Percent Differences" row and format as percent.
 !['Percent Difference','Percent Difference'](/6.png)
 * **Generally, Finland has a much higher positive percent difference in each of the categories, compared to averages of all the countries. For example, it is 40.83% higher in happiness score, 42.3% in freedom to make life choices, and, most significantly, 245% in perceptions of corruption. As [Gallup World Poll noted](https://worldhappiness.report/ed/2019/changing-world-happiness/), "for corruption a higher rank means a lower perceived frequency of corruption"**
-
