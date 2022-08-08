@@ -8,11 +8,11 @@ Every year the GWP conducts a World Happiness Report in which they evaluate a co
 
 
 ### Contacts for Interviews
-1. Shun Wang | Professor, KDI School of Public Policy and Management
+**1. Shun Wang | Professor, KDI School of Public Policy and Management
 * **Email:** swang@kdis.ac.kr
 * **Phone Number:** +82 (44) 550 - 1109
 * *Dr. Wang is one of the authors of the study and provided insightful commentary on the referenced New York Times' article.*
-
+</br>
 2. John F. Helliwell | Professor Emeritus, Vancouver School of Economics, University of British Columbia
 * **Email:** John.Helliwell@ubc.ca
 * **Phone Number:** 604-822-4953
