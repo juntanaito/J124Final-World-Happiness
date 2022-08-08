@@ -11,12 +11,12 @@ Every year the GWP conducts a World Happiness Report in which they evaluate a co
 1. Shun Wang | Professor, KDI School of Public Policy and Management
 * **Email:** swang@kdis.ac.kr
 * **Phone Number:** +82 (44) 550 - 1109
-* Dr. Wang is one of the authors of the study and provided insightful commentary on the referenced New York Times' article.
+* *Dr. Wang is one of the authors of the study and provided insightful commentary on the referenced New York Times' article.*
 
 2. John F. Helliwell | Professor Emeritus, Vancouver School of Economics, University of British Columbia
 * **Email:** John.Helliwell@ubc.ca
 * **Phone Number:** 604-822-4953
-* Helliwell is one of the editors of the report and can offer deeper insight behind the numbers in the World Happiness Report, especially around the topic of COVID-19.
+* *Helliwell is one of the editors of the report and can offer deeper insight behind the numbers in the World Happiness Report, especially around the topic of COVID-19.*
 
 ### Additional Sources
 
