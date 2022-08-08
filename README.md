@@ -6,6 +6,9 @@ I got my data from this data set and focused on the years 2019 to 2022.
 ## Story Summary and Sourcing
 NYT - "Dr. Wang said some results were surprising: Parts of Eastern Europe ranked relatively low on the list, despite having relatively good income levels, while in South America, the reverse was true: Happiness levels tended to be high, given relatively low income levels."
 
+NYT - explains more about why Fins may be happier
+"The country’s public school system, which rarely tests children, is among the best in the world. College is free. There is a good universal health care system and child care is affordable. And Finland has been one of the least affected European countries by the pandemic, which experts attribute to the high trust in government and little resistance to following restrictions."
+
 ## Data Analysis
 
 ### 1) In 2022, what rank and happiness score did the countries who had the top 5 highest score for GDP per capita as their explanation for happiness receive? Top 5 lowest? 
@@ -44,5 +47,12 @@ NYT - "Dr. Wang said some results were surprising: Parts of Eastern Europe ranke
 4. Go back to the pivot table sheet and use the VLOOKUP function to fill in the countries which correspond to the the highest score (maximum value) in each of the categories. In order to do this, the search key would be the maximum value for each category ("2209" or cell A2 for "MAX of Explained by: GDP per capita"), the range would be from the column which the search is being made ("Explained by: GDP per capita" or column C in this example) until the "Country" (column I), index would be the number of the "Country" column counting from the left ("7" in this example), and the "[is sorted]" would be "false."  
 !['2022 Highest Category','2022 Highest Category'](/4.png)
 * **In 2022, Luxembourg gave the highest score for GDP per capita, Iceland for social support, Hong Kong S.A.R. of China for healthy life expectancy, Cambodia for freedom to make life choices, Indonesia for generosity, and Singapore for perceptions of corruption.**
-### 5)
-1.
+### 5) What was the percentage change in the ladder score from 2021 to 2022 for Finland, Denmark, Iceland, Switzerland, and the United States?
+1. In the "2022" sheet, create a pivot table.
+2. In the pivot table, set the row to "Country name."
+3. In the filters option, unselect all other countries except for Finland, Denmark, Iceland, Switzerland, and the United States.
+4. In the values option, add "Ladder score" and summarize it by "AVERAGE."
+5. In order to add in the ladder scores from 2020, use VLOOKUP in the cell directly to the right of Denmark's average ladder score. The search key would be the country name ("Denmark" for example), the range would be from the "Country name" column to the "Ladder score" column, index would be "3", and the "[is sorted]" would be "false." Then drag the formula down to apply to the other countries. Name this column "2020."
+6.  In order to find the percent change, follow the "(NEW-OLD)/OLD) x 100" formula, so for first country Denmark, it would be "B2" or "7.62" minus "C2" or "7.65", divided by "C2". Then you can name this column "Percent change" and highlight all the values under it and format them as a percent.
+
+* **From 2021 to 2022, Denmark decreased in their ladder score by 0.33% while the other countries increased such as 0.66% by Iceland and 0.16% by the United States.**
