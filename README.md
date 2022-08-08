@@ -58,4 +58,14 @@ NYT - explains more about why Fins may be happier
 !['Percent Change','Percent Change'](/5.png)
 * **From 2021 to 2020, Denmark decreased in their ladder score by 0.33% while the other countries increased such as 0.66% by Iceland and 0.16% by the United States.**
 
-### 6) Looking at Finland's categories in comparison to the average of others. 
+### 6) In 2022, what is the percent difference of Finland's happiness score, GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption compared to the average of all the countries in each of these categories. 
+1. In the "2022" sheet, highlight the number data for "Happiness score" and use the functions to calculate the average. 
+2. To calculate the average for the rest of the categories, just drag the bottom right corner of the cell which just calculated the average for the happiness score to the right, with the last cell outputting the average for the perceptions of corruption. In the cell to the left of the newly calculated data, type in "Averages" to label the row.
+3. Copy the same seven columns from the "Finland" row and paste it below the averages. In the cell to the left of the copied Finland data, type in "Finland" to label the row.
+4. Highlight these two rows of data retrieved, copy it, and paste it onto a new sheet.
+5. Copy the corresponding column headers and paste them into the new sheet.
+6. In the new sheet, in the row below the Finland data, add a function which would divide the Finland data by the average data and then substract that by 1 (For the "happiness score" column, it would "=((B3/B2)-1)" which would result in "=((7821/5,553.58)-1)". Drag this function to the right so that it applies to the rest of categories. Label this new row "Percent Differences"
+7. Highlight the "Percent Differences" row and format as percent.
+
+* **Generally, Finland has a much higher positive percent difference in categories that are positive, such as being 40.83% higher in happiness score than the average country and 42.3% in freedom to make life choices, but was significantly higher in perceptions of corruption, being 245% higher than the average. As [Gallup noted] (https://worldhappiness.report/ed/2019/changing-world-happiness/), "for corruption a higher rank means a lower perceived frequency of corruption"**
+
