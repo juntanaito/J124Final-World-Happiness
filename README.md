@@ -8,15 +8,25 @@ For my story, I will be referencing the **[2019 to 2022 data set from the World 
 
 Every year the GWP conducts a World Happiness Report in which they evaluate a country's level of happiness based on self-reported responses about their quality of life. Respondents also evaluate these six variables to explain the nuances in happiness within their countries: GDP per capita, social support, healthy life expectancy, freedom, generosity, and absence of corruption. For the past four years (2019 to 2022), Finland and Denmark respectively have been ranked as the top two happiest countries consecutively. While there are certainly several factors contributing to a country's overall sense of happiness, there were some common factors found within my analysis. First, by evaluating countries which ranked their GDP per capita being the explanation for happiness, I observed that while countries who ranked GDP per capita as a low factor did have an overall lower happiness score, the countries which has ranked it higher did not necessarily rank higher in overall happiness. For example, although Singapore had the second highest score for GDP per capita as their explanation with 2,149, it still ranked #27 in overall happiness. So while a healthy economy is needed as a standard, it was not the most influential factor in contributing to a county's overall happiness. Dr. Shun Wang, professor of the KDI School of Public Policy and Management in South Korea, noted in a [New York Times article](https://www.nytimes.com/2021/04/20/world/europe/world-happiness-report-ranking.html) how although some Eastern European countries have relatively good income levels, it still ranked pretty low in overall happiness. When comparing Finland's data to the overall averages, Finland generally had a much higher positive percent difference but most significantly in perceptions of corruption, which was higher by 245% compared to the average country. This indicates that perceptions of corruption within one's government and businesses in their country can significantly influence the country's overall happiness. Lastly, I compared levels of happiness and its variables in the top countries as well as the United States during 2020, before the pandemic, and 2021, during the pandemic and found that only Denmark decreased in the overall happiness score. This is noteworthy to explore and evalute what other variables may have shifted before and during the pandemic. 
 
-###Contacts for Interviews
 
-###Additional Sources
+### Contacts for Interviews
+1. Shun Wang | Professor, KDI School of Public Policy and Management
+* **Email:** swang@kdis.ac.kr
+* **Phone Number:** +82 (44) 550 - 1109
+* Dr. Wang is one of the authors of the study and provided insightful commentary on the referenced New York Times' article.
+
+2. John F. Helliwell | Professor Emeritus, Vancouver School of Economics, University of British Columbia
+* **Email:** John.Helliwell@ubc.ca
+* **Phone Number:** 604-822-4953
+* Helliwell is one of the editors of the report and can offer deeper insight behind the numbers in the World Happiness Report, especially around the topic of COVID-19.
+
+### Additional Sources
 
 1. [New York Times' "What Makes a Happy Country?"](https://www.nytimes.com/2021/04/20/world/europe/world-happiness-report-ranking.html)
 * This article provides a journalistic perspective of the World Happiness Report and expert voices on their analysis and interpretation of the data.
 NYT - "Dr. Wang said some results were surprising: Parts of Eastern Europe ranked relatively low on the list, despite having relatively good income levels, while in South America, the reverse was true: Happiness levels tended to be high, given relatively low income levels."
 
-2. [World Happiness Report's "Overview: Life under COVID-19"](https://worldhappiness.report/ed/2021/overview-life-under-covid-19/#:~:text=Not%20being%20able%20to%20work,%25%20and%205%25%2C%20respectively.)
+2. [World Happiness Report's "Overview: Life under COVID-19"](https://worldhappiness.report/ed/2021/overview-life-under-covid-19/)
 * This report provides an in-depth anaylsis from the authors of the study about how COVID-19 has overall impacted the happiness of countries across the world.
 
 ## Data Visualization
