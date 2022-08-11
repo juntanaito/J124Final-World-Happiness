@@ -20,31 +20,31 @@ When comparing Finland's 2022 data to the averages among all the countries, Finl
 **2. John F. Helliwell | Professor Emeritus, Vancouver School of Economics, University of British Columbia**
 * **Email:** John.Helliwell@ubc.ca
 * **Phone Number:** 604-822-4953
-* *Helliwell is one of the editors of the report and can offer deeper insight behind the numbers in the World Happiness Report, especially around the topic of COVID-19, as referenced in the "Overview: Life under COVID-19" analysis.*
+* *Helliwell is one of the editors of the report and can offer deeper insight behind the numbers in the World Happiness Report, especially around the topic of COVID-19, as referenced in the additional source "Overview: Life under COVID-19".*
 
 ### Additional Sources
 
 **1. [New York Times' "What Makes a Happy Country?"](https://www.nytimes.com/2021/04/20/world/europe/world-happiness-report-ranking.html)**
 * This article provides a journalistic perspective of the World Happiness Report and expert voices on their analysis and interpretation of the data.
-NYT - "Dr. Wang said some results were surprising: Parts of Eastern Europe ranked relatively low on the list, despite having relatively good income levels, while in South America, the reverse was true: Happiness levels tended to be high, given relatively low income levels."
 
 **2. [World Happiness Report's "Overview: Life under COVID-19"](https://worldhappiness.report/ed/2021/overview-life-under-covid-19/)**
 * This report provides an in-depth anaylsis from the authors of the study about how COVID-19 has overall impacted the happiness of countries across the world.
 
 ## Data Visualization
+Below is a choropleth map of the overall happiness scores from the 2022 data. Please note that not all countries were surveyed, and therefore, included into this data.
 [!['2022 Happiness Map','2022 Happiness Map'](/2022HappinessMap.png)](https://datawrapper.dwcdn.net/cHX8N/2/)
 
 ## Data Analysis Process
 Please refer to my [data analysis sheet](https://docs.google.com/spreadsheets/d/1nMtKNOb6AOntjbsMRxbIf5Id55MrybIcnP_VcXPXBuw/edit?usp=sharing) for further details.
 
-### 1) In 2022, what rank and happiness score did the countries who had the top 5 highest score for GDP per capita as their explanation for happiness receive? Top 5 lowest? 
+### 1) In 2022, what rank and happiness score did the countries who had the top 5 highest score for GDP per capita receive? Top 5 lowest? 
 1. In "2022" sheet, highlight the "Explained by: GDP per capita" column and drag it to the right of the "Happiness score" column.
 2. Sort the "Explained by: GDP per capita" column from Z to A, arranging the data in descending order from the highest GDP per capita. 
 !['Highest GDP','Highest GDP'](/1a.png)
-* **In 2022, Luxembourg scored the highest for GDP per capita being their explanation for happiness with 2,209, however, ranked #6 among the happiest countries with a happiness score of 7,404. Singapore, coming in second, had a sharper contrast, with a score of 2,149 in their GDP per capita while ranking #27 and a happiness score of 6,480.** 
+* **In 2022, Luxembourg ranked the highest for GDP per capita with a score of 2,209, however, ranked #6 among the happiest countries with a happiness score of 7,404. Singapore had a sharper contrast, coming in second for GDP per capita with a score of 2,149 while ranking #27 in overall happiness and a score of 6,480.** 
 3. Sort the "Explained by: GDP per capita" column from A to Z, arranging the data in ascending order from the lowest GDP per capita. 
 !['Lowest GDP','Lowest GDP'](/1b.png)
-* **As shown, the countries which ranked the lowest for GDP per capita as their explanation for their happiness, ranked lower overall in happiness, as Venezuela scored the lowest for GDP per capita being their explanation for happiness with 0, and ranked #108 among the happiest countries with a happiness score of 4,925.**
+* **As shown, the countries which ranked the lowest in GDP per capita, ranked lower overall in happiness. For example, Venezuela ranked the lowest in GDP per capita with a score of 0, and ranked #108 among the happiest countries with a score of 4,925.**
 
 ### 2) In 2021, what were the averages for the ladder score, GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption *by region*? Round decimal to the hundredth place. Which region had the highest average "ladder score"?
 1. In the "2021" sheet, create a pivot table.
