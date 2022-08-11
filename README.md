@@ -33,7 +33,8 @@ Lastly, I compared the levels of happiness and its variables within the top coun
 * This report provides an in-depth anaylsis from the authors of the study about how COVID-19 has overall impacted the happiness of countries across the world.
 
 ## Data Visualization
-Below is a choropleth map of the overall happiness scores from the 2022 data. Please note that not all countries were surveyed, and therefore, included into this data.
+*Below is a choropleth map of the overall happiness scores from the 2022 data set. Please note that not all countries were surveyed, and therefore, included into this data. Click on the map to view happiness scores by country.*
+
 [!['2022 Happiness Map','2022 Happiness Map'](/2022HappinessMap.png)](https://datawrapper.dwcdn.net/cHX8N/2/)
 
 ## Data Analysis Process
